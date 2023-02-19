@@ -58,7 +58,7 @@ This is a Flask app for detecting fake news using a machine learning model.
 
 ## Credits
 
-The machine learning model used in this app was trained by [Amit Kumar](https://github.com/amitkumar7075) and is based on the [Fake News Detection dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) from Kaggle.
+The machine learning model used in this app is based on the [Fake News Detection dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) from Kaggle.
 
 ## License
 
