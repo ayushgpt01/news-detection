@@ -14,13 +14,13 @@ This is a Flask app for detecting fake news using a machine learning model.
 
     bashCopy code
 
-    `cd Fake_News_Detection`
+    `cd news-detection`
 
 3.  Create a virtual environment:
 
     Copy code
 
-    `python3 -m venv venv`
+    `python -m venv venv`
 
 4.  Activate the virtual environment:
 
@@ -42,7 +42,7 @@ This is a Flask app for detecting fake news using a machine learning model.
 
     Copy code
 
-    `python app.py`
+    `python Fake_News_Det.py`
 
 2.  Once the Flask app is running, you can access it by opening a web browser and going to `http://localhost:5000/`.
 3.  Enter a news article in the text box and click the "Check" button to detect whether it's real or fake.
