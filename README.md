@@ -8,7 +8,7 @@ This is a Flask app for detecting fake news using a machine learning model.
 
     bashCopy code
 
-    `git clone https://github.com/ayushgpt01/fake_news_detection.git`
+    `git clone https://github.com/ayushgpt01/news-detection.git`
 
 2.  Navigate to the directory where you have cloned the repository:
 
